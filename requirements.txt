@@ -1,0 +1,15 @@
+flask
+flask-cors
+llama-index
+chromadb
+sentence-transformers
+scikit-learn
+pandas
+numpy
+plotly
+faker
+rapidfuzz
+pytest
+google-generativeai
+python-dotenv
+pdfplumber

@@ -1,0 +1,54 @@
+Investing Basics for Beginners — SIP, Mutual Funds, and Asset Allocation
+
+WHY YOU MUST INVEST (NOT JUST SAVE)
+Keeping money in a savings account at 3–4% interest while inflation runs at 5–6% means your money is LOSING purchasing power every year. Investing is not optional — it is the only way to grow real wealth over time.
+
+The power of compounding: ₹5,000/month invested for 30 years at 12% annual return = ₹1,76,49,569 (~₹1.76 crore).
+The same amount in a savings account at 4% = ₹34,68,919. The difference: ₹1.42 crore.
+
+WHAT IS A MUTUAL FUND?
+A mutual fund pools money from thousands of investors and invests it in a diversified portfolio of stocks, bonds, or other securities managed by a professional fund manager.
+
+Types relevant to retail investors:
+1. Equity mutual funds: Invest in stocks. Higher risk, higher long-term return. Best for goals 5+ years away.
+2. Debt mutual funds: Invest in bonds and government securities. Lower risk, stable returns. Best for goals 1–3 years away.
+3. Liquid funds: Ultra-short-term debt funds. Almost no risk. Best for emergency fund or parking money.
+4. Hybrid/balanced funds: Mix of equity and debt. Good for moderate risk tolerance.
+5. Index funds: Track a market index (Nifty 50, Sensex) passively. Very low fees. Warren Buffet's recommended approach for most people.
+
+WHAT IS AN SIP?
+A Systematic Investment Plan (SIP) means investing a fixed amount in a mutual fund at regular intervals (monthly/weekly). SIPs offer:
+1. Rupee cost averaging: You buy more units when markets are down, fewer when markets are up. This naturally lowers your average cost over time.
+2. Discipline: Money is auto-debited — you cannot forget or procrastinate.
+3. Accessibility: Start with as little as ₹100/month.
+4. No timing needed: You do not need to predict market highs and lows.
+
+HOW TO START AN SIP IN INDIA (FREE PLATFORMS)
+1. Zerodha Coin (coin.zerodha.com) — Direct funds, zero commission
+2. Groww (groww.in) — Simple UI, good for beginners
+3. Kuvera (kuvera.in) — Very clean, free, direct plans
+4. Paytm Money — Integrated with Paytm wallet
+Always choose "Direct Plans" not "Regular Plans" — regular plans have distributor commissions baked in, reducing your returns by 0.5–1% annually, which compounds massively over decades.
+
+RECOMMENDED BEGINNER PORTFOLIO (SIMPLE)
+For a 25-year-old starting out with moderate risk tolerance:
+- 70% in a Nifty 50 Index Fund (e.g., UTI Nifty 50 Index Fund — expense ratio ~0.2%)
+- 20% in a Flexi Cap Active Fund (e.g., Parag Parikh Flexi Cap Fund)
+- 10% in a Liquid Fund (acts as extra emergency buffer)
+
+For a conservative investor:
+- 60% in debt funds
+- 40% in equity/index funds
+
+IMPORTANT PRINCIPLES
+1. Start now, not later: Time in the market beats timing the market.
+2. Do not check your portfolio daily: Markets fluctuate — daily checking causes anxiety and bad decisions.
+3. Ignore market news: "Market crashed 5%" headlines are buying opportunities for long-term investors.
+4. Rebalance annually: Once a year, check if your equity/debt ratio has drifted and restore it.
+5. Increase SIP by 10% annually: As your salary grows, grow your SIP proportionally.
+
+TAX ON MUTUAL FUND RETURNS IN INDIA
+Equity funds held > 1 year: Long-Term Capital Gains (LTCG) at 12.5% on gains above ₹1.25 lakh/year (post budget 2024).
+Equity funds held < 1 year: Short-Term Capital Gains (STCG) at 20%.
+Debt funds: Taxed as per your income tax slab (added to income).
+ELSS funds (Equity Linked Savings Scheme): Up to ₹1.5 lakh investment is tax-deductible under Section 80C. 3-year lock-in. Best of both worlds.

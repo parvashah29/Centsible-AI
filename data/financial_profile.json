@@ -1,0 +1,67 @@
+{
+  "summary": {
+    "total_income": 16500.0,
+    "total_expenses": 5596.45,
+    "net_savings": 10903.55,
+    "savings_rate_pct": 66.1,
+    "num_months_of_data": 3,
+    "avg_monthly_income": 5500.0,
+    "avg_monthly_expenses": 1865.48
+  },
+  "top_spending_categories": [
+    "Groceries",
+    "Shopping",
+    "Transport"
+  ],
+  "expenses_by_category": {
+    "Groceries": 1807.14,
+    "Shopping": 1036.89,
+    "Transport": 695.26,
+    "Rent & Housing": 685.0,
+    "Dining": 606.38,
+    "Healthcare": 546.65,
+    "Entertainment": 219.13
+  },
+  "category_pct_of_spending": {
+    "Groceries": 32.3,
+    "Shopping": 18.5,
+    "Transport": 12.4,
+    "Rent & Housing": 12.2,
+    "Dining": 10.8,
+    "Healthcare": 9.8,
+    "Entertainment": 3.9
+  },
+  "monthly_income": {
+    "2026-01": 11000.0,
+    "2026-02": 2750.0,
+    "2026-03": 2750.0
+  },
+  "monthly_expenses": {
+    "2026-01": 2422.31,
+    "2026-02": 1159.9,
+    "2026-03": 2014.24
+  },
+  "mom_expense_change_pct": {
+    "2026-02": -52.1,
+    "2026-03": 73.7
+  },
+  "top_merchants": {
+    "PURCHASE Trader Joes IH9605": 219.36,
+    "POS Walgreens PM0697": 210.72,
+    "DEBIT Whole Foods SZ5514": 205.79,
+    "Amazon OA8944": 196.16,
+    "POS Whole Foods WF0942": 175.8,
+    "POS Best Buy GU2525": 172.93,
+    "Costco GR6739": 169.65,
+    "Target WX3476": 167.79,
+    "DEBIT Walgreens FM1092": 158.73,
+    "DEBIT Aldi BI5645": 155.53
+  },
+  "benchmark_50_30_20": {
+    "needs_budget_50pct": 2750.0,
+    "wants_budget_30pct": 1650.0,
+    "savings_target_20pct": 1100.0,
+    "actual_savings": 3634.52,
+    "savings_gap": -2534.52
+  }
+}

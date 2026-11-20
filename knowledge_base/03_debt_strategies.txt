@@ -1,0 +1,67 @@
+Debt Repayment Strategies — Avalanche vs Snowball Method
+
+UNDERSTANDING YOUR DEBT
+Before choosing a strategy, list all your debts:
+- Type (credit card, personal loan, car loan, education loan, home loan)
+- Outstanding balance
+- Interest rate (annual percentage rate)
+- Minimum monthly payment
+
+Indian debt interest rates for reference:
+- Credit card: 36–42% per annum (HIGHEST — always priority to eliminate)
+- Personal loan: 10–24% per annum
+- Car loan: 8–12% per annum
+- Education loan: 7–11% per annum (often tax-deductible under Section 80E)
+- Home loan: 8–10% per annum (also tax-deductible — do NOT overpay this aggressively)
+
+THE DEBT AVALANCHE METHOD (Mathematically Optimal)
+Rule: Always pay extra towards the debt with the HIGHEST interest rate first.
+Minimum payments go to all other debts. Every extra rupee goes to the highest-rate debt.
+
+Steps:
+1. List debts from highest to lowest interest rate.
+2. Pay the minimum on all debts.
+3. Put every extra rupee towards Debt #1 (highest rate).
+4. When Debt #1 is cleared, add its minimum payment to extra payments for Debt #2.
+5. Repeat (this "avalanche" effect grows your firepower).
+
+Advantages: Saves the most money in total interest paid. Mathematically superior.
+Disadvantages: Can feel slow if your highest-rate debt has a large balance — motivation can drop.
+
+THE DEBT SNOWBALL METHOD (Psychologically Effective)
+Rule: Pay off the debt with the SMALLEST BALANCE first, regardless of interest rate.
+
+Steps:
+1. List debts from smallest to largest balance.
+2. Pay the minimum on all debts.
+3. Put every extra rupee towards the smallest balance (Debt #1).
+4. When cleared, roll its payment to Debt #2.
+5. Each payoff creates a "win" that motivates you to continue.
+
+Advantages: Faster wins, higher motivation, better for people who struggle with discipline.
+Disadvantages: You may pay more in total interest compared to the Avalanche method.
+
+WHICH SHOULD YOU CHOOSE?
+- If you are disciplined and motivated by numbers: use Avalanche.
+- If you need quick emotional wins to stay on track: use Snowball.
+- Both methods work — the best method is the one you will actually stick to.
+
+SPECIAL INDIAN CONTEXT
+1. Credit card debt in India carries one of the highest interest rates in the world (36–42%). If you carry a balance, this is your single most expensive financial mistake. Clear it immediately — even if it means selling investments.
+2. Never invest in the stock market while carrying credit card debt. A 12% equity return cannot beat a 40% debt cost.
+3. Education loan interest (Section 80E): You can claim the interest paid on education loans as a deduction for up to 8 assessment years. Do not overpay this loan until you have maximised this tax benefit.
+4. Home loan (Section 80C + 24b): Principal repayment (up to ₹1.5 lakh) qualifies under 80C. Interest (up to ₹2 lakh) qualifies under Section 24b. This massively reduces the effective cost of a home loan.
+
+DEBT REPAYMENT EXAMPLE
+Debts:
+- Credit card: ₹40,000 at 40% p.a.
+- Personal loan: ₹1,20,000 at 15% p.a.
+
+Avalanche order: Credit card first (higher rate).
+Monthly extra payment: ₹5,000
+
+Month 1: ₹5,000 → credit card. Balance: ₹35,000.
+...continue until credit card is cleared (≈ 8–9 months).
+Then redirect entire ₹5,000 + old minimum to personal loan.
+
+By using avalanche, you save significantly more interest vs. targeting the personal loan first.
